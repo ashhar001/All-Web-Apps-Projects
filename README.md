@@ -1,4 +1,4 @@
-# All-Web-Apps-Projects
+# All-Web-App-Projects
 
 
 ## Covid19-Tracker
