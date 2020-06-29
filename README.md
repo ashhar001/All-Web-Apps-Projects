@@ -9,3 +9,6 @@ https://ashhar001.github.io/my-react-portfolio/
 
 ## Music Player using HTML and CSSS
 https://ashhar001.github.io/music-studio/#
+
+## Calculator using HTML, CSS and JS
+https://ashhar001.github.io/calculator-coding-ninjas-miniproject/
