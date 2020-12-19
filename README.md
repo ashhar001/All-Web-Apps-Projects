@@ -1,5 +1,7 @@
 # All-Web-App-Projects
 
+## Lottery Smart Contract Dapp Using Web3, Solidity, Metamask, Mocha, React.js
+https://ashhar001.github.io/lottery-react/
 
 ## Covid19-Tracker Using React.js
 https://ashhar001.github.io/covid19-tracker-ashar/
